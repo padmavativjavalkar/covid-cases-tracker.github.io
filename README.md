@@ -1,0 +1,1 @@
+This is a demo covid tracker written in html css javascript
